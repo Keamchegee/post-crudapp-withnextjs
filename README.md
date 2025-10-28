@@ -4,7 +4,7 @@ A simple full-stack CRUD (Create, Read, Update, Delete) application built using 
 
 🚀 Features
 
-reate, Read, Update, and Delete psts
+reate, Read, Update, and Delete posts
 
  Built with the latest Next.js App Router
 
@@ -15,6 +15,7 @@ reate, Read, Update, and Delete psts
  Styled with basic CSS 
 
  Real-time updates using React state and fetch API
+ Including authentication and authorization
 
  Tech Stack
 Layer	Technology
