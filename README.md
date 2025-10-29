@@ -18,9 +18,9 @@ reate, Read, Update, and Delete posts
  Including authentication and authorization
 
  Tech Stack
-Layer	Technology
+Layer	Technologies
 Frontend	Next.js (React 18)
 Backend	Next.js API Routes
 Database	MongoDB
-HTTP	Native fetch API
+HTTP	Native fetch APIs
 Styling	CSS 
